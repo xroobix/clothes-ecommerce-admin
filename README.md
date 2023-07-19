@@ -46,7 +46,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-admin.git
+git clone https://github.com/xroobix/clothes-ecommerce-admin.git
 ```
 
 ### Install packages
